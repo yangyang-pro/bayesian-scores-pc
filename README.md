@@ -1,5 +1,5 @@
 # bayesian-scores-pc
-This repository contains the code for the paper [**Bayesian Structure Scores for Probabilistic Circuits**](https://arxiv.org/abs/2302.12130) (*AISTATS 2023*).
+This repository contains the code for the paper [**Bayesian Structure Scores for Probabilistic Circuits**](https://proceedings.mlr.press/v206/yang23a.html) (*AISTATS 2023*).
 
 **Authors**: Yang Yang*, Gennaro Gala*, Robert Peharz
 
