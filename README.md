@@ -95,14 +95,15 @@ options:
 ## Citation
 If you find this work useful, please consider citing:
 ```
-@article{yang2023bayesian,
+@inproceedings{yang2023bayesian,
   title={Bayesian Structure Scores for Probabilistic Circuits},
   author={Yang, Yang and Gala, Gennaro and Peharz, Robert},
-  journal={arXiv preprint arXiv:2302.12130},
-  year={2023}
+  booktitle={International Conference on Artificial Intelligence and Statistics},
+  pages={563--575},
+  year={2023},
+  organization={PMLR}
 }
 ```
-The paper is accepted to AISTATS 2023. Please cite that version of the paper when the proceedings are out.
 ## Acknowledgements
 We thank the Eindhoven Artificial Intelligence Systems Institute (EAISI) for its support. This research was supported
 by the Graz Center for Machine Learning (GraML). We
